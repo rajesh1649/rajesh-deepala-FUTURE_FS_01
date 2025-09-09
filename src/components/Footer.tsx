@@ -16,7 +16,7 @@ const Footer = () => {
     },
     {
       icon: Linkedin,
-      href: "#",
+      href: "https://www.linkedin.com/in/rajesh-deepala-555592284",
       label: "LinkedIn"
     }
   ];

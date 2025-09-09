@@ -70,7 +70,7 @@ const Hero = () => {
               <Github className="w-6 h-6 group-hover:text-primary transition-colors" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/rajesh-deepala-555592284" 
               className="p-3 rounded-full border border-border hover:border-primary/50 hover:bg-primary/10 transition-all duration-300 group"
             >
               <Linkedin className="w-6 h-6 group-hover:text-primary transition-colors" />
